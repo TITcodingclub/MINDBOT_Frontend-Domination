@@ -306,3 +306,11 @@ main {
     width: 130rem;
     scale: 150%;
 }
+.event-3d {
+    position: absolute;
+    top: 0;
+    right: -10;
+    width: 130rem;
+    scale: 100%;
+    margin-bottom: -120;
+}
