@@ -192,13 +192,12 @@ main {
 .nexio-3d {
     position: absolute;
     top: 0;
-    right: 0;
-    width: 40vw;
-    max-width: 700px;
-    min-width: 300px;
-    height: auto;
-    z-index: -999;
+    margin-bottom: 10%;
+    LEFT: -0%;
+    width: 140rem;
+    scale: 75%;
 }
+    
 /* Table responsive */
 @media (max-width: 1300px) {
     header {
