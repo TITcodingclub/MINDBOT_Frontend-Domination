@@ -314,3 +314,19 @@ main {
     scale: 100%;
     margin-bottom: -120;
 }
+.movie-3d {
+    position: absolute;
+    top: 0;
+    right: -10;
+    width: 130rem;
+    scale: 100%;
+    margin-bottom: -120;
+}
+.sports-3d{
+    position: absolute;
+    top: 0;
+    right: -10;
+    width: 130rem;
+    scale: 100%;
+    margin-bottom: 120;
+}
