@@ -1,0 +1,2 @@
+Nexio is an immersive, 3D virtual event platform that redefines attendee engagement with a dynamic, recipe-inspired interface. Built with Three.js, it combines interactive features like drag-and-drop schedules, live polling with emoji/graph feedback, animated session progress indicators, floating notes with voice input, animated speaker bio cards, session replays with timestamp navigation, and a recipe-like timeline for multi-part sessions. Designed to feel responsive and modern, Nexio transforms virtual events into engaging, interactive experiences.
+
